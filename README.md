@@ -240,4 +240,4 @@ This repository serves as the official landing page for Similarity. The software
 **Get the most recent version of Similarity today!**
 
 ---
-**Last updated:** 2026-09-18 18:13:55 UTC
+**Last updated:** 2026-09-18 21:32:31 UTC
